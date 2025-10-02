@@ -42,5 +42,3 @@ Cada entrada conta com:
 - Facilitar o **acesso rápido** a palavras e significados em diversos idiomas.  
 
 ---
-
-💡 **Palavras pelo Mundo** – Um mundo de palavras ao seu alcance.
