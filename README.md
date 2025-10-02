@@ -1,10 +1,10 @@
-# 🌍 Universal Dictionary
+# 🌍 Palavras pelo Mundo 
 
 <p align="center">
-  <img src="resources/img/logo.png" alt="Logo Universal Dictionary" width="200"/>
+  <img src="resources/img/logo.png" alt="Logo Palavras pelo Mundo " width="200"/>
 </p>
 
-O **Universal Dictionary** é um projeto online que reúne palavras e expressões de diferentes países ao redor do mundo, organizadas por continente.  
+O **Palavras pelo Mundo** é um projeto online que reúne palavras e expressões de diferentes países ao redor do mundo, organizadas por continente.  
 Nosso objetivo é facilitar o acesso a vocabulário, significados e traduções, promovendo o aprendizado cultural e linguístico de forma simples e acessível.
 
 ---
@@ -43,4 +43,4 @@ Cada entrada conta com:
 
 ---
 
-💡 **Universal Dictionary** – Um mundo de palavras ao seu alcance.
+💡 **Palavras pelo Mundo** – Um mundo de palavras ao seu alcance.
